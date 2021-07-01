@@ -1,0 +1,15 @@
+{
+  "name": "typing_game_words",
+  "version": "1.0.0",
+  "description": "Words Typing Game",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Anjani Pranav Reddy Chapparapu",
+  "homepage": "https://Anjani-ch.github.io/Typing-Game-Words",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
